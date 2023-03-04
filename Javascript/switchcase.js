@@ -9,3 +9,5 @@ switch(x){
      default:
      console.log("It is  zero");
 }
+
+
